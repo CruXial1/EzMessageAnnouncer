@@ -1,0 +1,11 @@
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\bin\Debug\EzMessageAnnouncer.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\bin\Debug\EzMessageAnnouncer.pdb
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\bin\Debug\Assembly-CSharp.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\bin\Debug\Rocket.API.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\bin\Debug\Rocket.Core.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\bin\Debug\Rocket.Unturned.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\bin\Debug\UnityEngine.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\obj\Debug\EzMessageAnnouncer.csprojResolveAssemblyReference.cache
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\obj\Debug\EzMessageAnnouncer.dll
+c:\users\bv2803\documents\visual studio 2017\Projects\EzMessageAnnouncer\EzMessageAnnouncer\obj\Debug\EzMessageAnnouncer.pdb
